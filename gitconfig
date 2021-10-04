@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Nicolas.b.95@hotmail.com
+	name = Nicolas Brouwers
